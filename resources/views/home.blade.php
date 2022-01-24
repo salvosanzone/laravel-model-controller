@@ -2,7 +2,7 @@
 
 @section('content')
 
-<main class="d-flex align-items-center">
+<section class="d-flex align-items-center">
   <div class="container">
     <div class="row">
       <div class="col-3 box">
@@ -19,6 +19,6 @@
       </div>
     </div>
   </div>
-</main>
+</section>
 
 @endsection

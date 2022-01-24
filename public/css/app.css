@@ -11010,17 +11010,17 @@ footer .logo img {
   max-width: 100%;
 }
 
-main {
+section {
   height: calc(100vh - 130px);
   background-image: linear-gradient(black, #0F171E);
   color: white;
 }
 
-main .container .box {
+section .container .box {
   cursor: pointer;
 }
 
-main .container .box img {
+section .container .box img {
   max-width: 100%;
   max-height: 100%;
 }
