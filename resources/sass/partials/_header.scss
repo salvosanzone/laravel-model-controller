@@ -1,0 +1,38 @@
+header{
+  height: 70px;
+  background-color: #0f171e;
+  color: white;
+
+  .menu{
+    ul li a{
+      font-size: 13px;
+      color: white;   
+    }
+    .left-menu{
+      .logo{
+        width: 100px;
+        img{
+          max-width: 100%;
+        }
+      }
+    }
+    .right-menu{
+      i{
+        cursor: pointer;
+      }
+      .user{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid lightblue;
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+      }
+    }
+  }
+  
+}
+
+
+// https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png
