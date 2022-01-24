@@ -11025,3 +11025,9 @@ main .container .box img {
   max-height: 100%;
 }
 
+.store {
+  height: calc(100vh - 130px);
+  background-image: linear-gradient(black, #0F171E);
+  color: white;
+}
+
