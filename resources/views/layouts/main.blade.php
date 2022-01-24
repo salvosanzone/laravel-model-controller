@@ -13,6 +13,11 @@
   @include('partials.header')
 
   @yield('content')
+  <main>
+    fdfd
+  </main>
+  
+  @include('partials.footer')
 
 
 </body>

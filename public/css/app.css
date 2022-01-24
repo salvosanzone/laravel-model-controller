@@ -10995,3 +10995,22 @@ header .menu .right-menu .user {
   border-radius: 50%;
 }
 
+footer {
+  height: 60px;
+  color: #8197a4;
+  background-color: #0f171e;
+}
+
+footer .logo {
+  width: 90px;
+  padding: 5px;
+}
+
+footer .logo img {
+  max-width: 100%;
+}
+
+main {
+  height: calc(100vh - 130px);
+}
+

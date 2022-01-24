@@ -31,6 +31,5 @@
       <h6 class="my-0">Salvatore <i class="fas fa-sort-down"></i></h6>
     </div>
     </div>
-    
   </div>
 </header>
